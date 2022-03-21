@@ -1,0 +1,47 @@
+h1{
+    color:black;
+    font-size: 45px;
+    text-align: center;
+} 
+
+h2{
+    color:green;
+    font-size: 45px;
+    text-align: center;
+}
+ 
+h3{
+    color: black;
+    font-size: 45px;
+    text-align: center;
+}
+/*selector de clase */
+
+.titulo{
+    color:#a25389;
+    font-size: 60px;
+}
+
+.parrafo1{
+    text-align: right;
+    color:cornflowerblue;
+    font-size: 16px;
+}
+
+.parrafo2{
+    text-align: center;
+    color:blueviolet;
+    font-size:18px;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+
+} 
+
+body{
+    background-color: white;
+}
+ 
+
